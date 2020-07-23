@@ -13,7 +13,7 @@ The Startup Investments Exploration project is an exploratory data science proje
 
 
 ## The Data Set
-This data set has startup investment data, capturing detailed information around the company funding rounds, their status, and post-IPO (initial public offering) figures - if applicable. The data set includes, but is not limited to, categorizations by market/industry, country and state (if US based). 
+This data set has startup investment data, capturing detailed information around the company funding rounds, financing periods and their status. The data set includes, but is not limited to, categorizations by market/industry, country and state (if US based). 
 
 The data appears to come from Crunchbase and was retreived from [Kaggle](https://www.kaggle.com/arindam235/startup-investments-crunchbase). The data set may be downloaded from this repo, but is also accesible on Kaggle's website. A user account may be required to access the data on their site. 
 
